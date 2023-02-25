@@ -31,8 +31,8 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -639,7 +639,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 654k out of 109m users</span>
+                                    <span class="gh">ranked 655k out of 109m users</span>
                                 </div>
                                 <div class="text">Followed by 17 users</div>
                             </div>
@@ -788,7 +788,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.04m out of 379m repositories</span>
+                                    <span class="gh">ranked 4.35m out of 379m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -870,7 +870,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Feb 2023, 00:05:31 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0-beta</span>
+                <span>Last updated 25 Feb 2023, 01:19:19 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
